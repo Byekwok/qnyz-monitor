@@ -7,13 +7,13 @@ check_availability: true
 concurrency: 10
 
 filters:
-  name: ""
+  name: "青年驿站蹲号"
   user_type: 2
   apply_scope: "personal"
   districts: []
-  only_stations: ["友间公寓宁国路社区青年驿站"]
-  date_from: "2026-09-11"
-  date_to: "2026-09-14"
+  only_stations: []
+  date_from: "2026-11-9"
+  date_to: "2026-11-20"
   min_house_count: 0
   min_apply_number: 1
 
