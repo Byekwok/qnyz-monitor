@@ -12,7 +12,7 @@ filters:
   apply_scope: "personal"
   districts: []
   only_stations: []
-  date_from: "2026-11-9"
+  date_from: "2026-11-09"
   date_to: "2026-11-20"
   min_house_count: 0
   min_apply_number: 1
