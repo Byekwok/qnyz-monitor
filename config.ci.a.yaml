@@ -19,6 +19,5 @@ filters:
 
 notify:
   type: "bark"
-  url: ""          # 由环境变量 QNYZ_NOTIFY_URL 注入
-
+  
 log_file: ""
